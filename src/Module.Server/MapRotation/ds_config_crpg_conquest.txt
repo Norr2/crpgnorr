@@ -1,11 +1,8 @@
-ServerName cRPG - Test Conquest - c-rpg.eu
+ServerName cRPG - NorrConquest
 GameType cRPGConquest
-GamePassword yoyo
-add_map_to_automated_battle_pool crpg_conquest_acre
+GamePassword norr
 add_map_to_automated_battle_pool crpg_conquest_frederiksborg
-add_map_to_automated_battle_pool crpg_conquest_hades
-add_map_to_automated_battle_pool crpg_conquest_neuenburg
-add_map_to_automated_battle_pool crpg_conquest_skalalanding
+add_map_to_automated_battle_pool crpg_conquest_talmberg
 AllowPollsToKickPlayers True
 AllowPollsToChangeMaps True
 disable_culture_voting
@@ -14,7 +11,7 @@ CultureTeam2 battania
 RespawnPeriodTeam1 6
 RespawnPeriodTeam2 24
 RoundPreparationTimeLimit 2
-MaxNumberOfPlayers 120
+MaxNumberOfPlayers 20
 AutoTeamBalanceThreshold 2
 FriendlyFireDamageMeleeFriendPercent 50
 FriendlyFireDamageMeleeSelfPercent 0
