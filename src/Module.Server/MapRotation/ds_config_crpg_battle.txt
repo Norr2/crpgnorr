@@ -2,6 +2,8 @@ ServerName cRPG - NorrBattle
 GameType cRPGBattle
 GamePassword norr
 WelcomeMessage nou
+add_map_to_automated_battle_pool crpg_battle_dragonsroost
+add_map_to_automated_battle_pool crpg_battle_cabbagepatch
 AllowPollsToKickPlayers True
 AllowPollsToChangeMaps True
 disable_culture_voting
